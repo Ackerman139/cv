@@ -1,0 +1,16 @@
+<html>
+   <head>
+ 	<meta charset="utf-8">
+	<title> Faith's personal site </title>
+   </head>
+   <body>
+	<h1> Faith Acuesta </h1>
+	<p><i> A Highschool student enrolled at udemy to explore the world of programming </i></p>
+	<P><i> Fil-Am teenager studying <b>Web Development</b> to be an intern to some companies </i></p>
+		<img src="Peyt.png" alt="Faith's profile picture"> 
+<hr>	
+	<h2><a href="Educational Background">Educational Background <i>(Philippines)</i> </a></h2>
+	<h3><a href="My Hobbies">My Hobbies </a> <a href="Contact Me"> Contact me! </a></h>
+
+   </body>
+</html>
